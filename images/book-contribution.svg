@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="title">
+  <title id="title">Letters of Contribution book cover</title>
+  <rect width="640" height="800" fill="#53687E"/>
+  <rect x="75" y="80" width="490" height="640" fill="#FBF8F1"/>
+  <path d="M140 520l135-250 96 165 65-88 80 173z" fill="#C59B55"/>
+  <rect x="135" y="145" width="350" height="30" fill="#24313A"/>
+  <rect x="135" y="205" width="250" height="16" fill="#A9683F"/>
+  <rect x="135" y="620" width="365" height="16" fill="#53687E" opacity=".65"/>
+</svg>

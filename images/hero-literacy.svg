@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Open book hero image</title>
+  <desc id="desc">Open book with notes and soft academic lighting.</desc>
+  <rect width="1800" height="1100" fill="#24313A"/>
+  <rect x="0" y="720" width="1800" height="380" fill="#526A5D"/>
+  <path d="M250 360c260-95 520-68 780 80v465c-260-140-520-168-780-80z" fill="#FBF8F1"/>
+  <path d="M1030 440c205-130 382-160 590-75v470c-210-86-385-56-590 75z" fill="#F7F1E5"/>
+  <path d="M1030 440v470" stroke="#A9683F" stroke-width="12"/>
+  <path d="M330 470h520M330 555h475M330 640h540" stroke="#53687E" stroke-width="18" opacity=".55"/>
+  <path d="M1130 505h390M1130 590h340M1130 675h405" stroke="#53687E" stroke-width="18" opacity=".55"/>
+  <circle cx="1460" cy="230" r="115" fill="#C59B55" opacity=".88"/>
+</svg>

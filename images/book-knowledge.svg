@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="title">
+  <title id="title">The Knowledge Garden book cover</title>
+  <rect width="640" height="800" fill="#526A5D"/>
+  <rect x="95" y="85" width="450" height="630" fill="#24313A"/>
+  <circle cx="430" cy="240" r="78" fill="#C59B55"/>
+  <path d="M150 610c80-120 155-180 230-180s124 60 160 180z" fill="#F7F1E5"/>
+  <rect x="140" y="155" width="250" height="26" fill="#FBF8F1"/>
+  <rect x="140" y="215" width="185" height="16" fill="#C59B55"/>
+</svg>

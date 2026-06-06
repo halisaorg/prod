@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Academic library hero image</title>
+  <desc id="desc">Warm academic library with journal shelves and reading tables.</desc>
+  <rect width="1800" height="1100" fill="#53687E"/>
+  <rect y="620" width="1800" height="480" fill="#F7F1E5"/>
+  <rect x="120" y="120" width="1280" height="470" fill="#24313A" opacity=".75"/>
+  <g opacity=".95">
+    <rect x="170" y="165" width="170" height="380" fill="#A9683F"/>
+    <rect x="370" y="165" width="150" height="380" fill="#C59B55"/>
+    <rect x="550" y="165" width="175" height="380" fill="#526A5D"/>
+    <rect x="760" y="165" width="150" height="380" fill="#F7F1E5"/>
+    <rect x="940" y="165" width="170" height="380" fill="#A9683F"/>
+    <rect x="1140" y="165" width="160" height="380" fill="#C59B55"/>
+  </g>
+  <rect x="210" y="705" width="810" height="84" rx="8" fill="#24313A"/>
+  <rect x="275" y="785" width="42" height="190" fill="#24313A"/>
+  <rect x="885" y="785" width="42" height="190" fill="#24313A"/>
+  <circle cx="1425" cy="298" r="145" fill="#FBF8F1" opacity=".88"/>
+  <path d="M1295 760c155-78 312-78 470 0v140c-158-76-315-76-470 0z" fill="#526A5D"/>
+</svg>

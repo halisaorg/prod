@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800" viewBox="0 0 640 800" role="img" aria-labelledby="title">
+  <title id="title">Aksara Knowledge Journal cover</title>
+  <rect width="640" height="800" fill="#24313A"/>
+  <rect x="72" y="70" width="496" height="660" fill="#F7F1E5"/>
+  <path d="M112 170h416" stroke="#A9683F" stroke-width="22"/>
+  <path d="M112 250h300M112 308h350M112 366h270" stroke="#53687E" stroke-width="16" opacity=".75"/>
+  <path d="M118 620c100-80 205-80 315 0 42-32 78-47 112-47v82c-34 0-70 15-112 47-110-80-215-80-315 0z" fill="#526A5D"/>
+</svg>

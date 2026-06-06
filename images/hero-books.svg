@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Publishing desk hero image</title>
+  <desc id="desc">Curated books and manuscripts arranged on a modern publishing desk.</desc>
+  <rect width="1800" height="1100" fill="#F7F1E5"/>
+  <rect x="0" y="0" width="1800" height="360" fill="#526A5D"/>
+  <rect x="210" y="220" width="420" height="650" rx="10" fill="#24313A"/>
+  <rect x="260" y="270" width="320" height="45" fill="#C59B55"/>
+  <rect x="260" y="345" width="260" height="24" fill="#FBF8F1" opacity=".8"/>
+  <rect x="710" y="305" width="360" height="560" rx="10" fill="#A9683F"/>
+  <rect x="760" y="360" width="250" height="36" fill="#FBF8F1" opacity=".85"/>
+  <rect x="1160" y="230" width="310" height="635" rx="10" fill="#53687E"/>
+  <rect x="1215" y="300" width="185" height="34" fill="#F7F1E5" opacity=".85"/>
+  <path d="M120 935h1540" stroke="#24313A" stroke-width="18" opacity=".35"/>
+  <circle cx="1510" cy="165" r="84" fill="#C59B55"/>
+</svg>
