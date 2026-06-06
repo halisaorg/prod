@@ -1,12 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
   <title id="title">Open book hero image</title>
   <desc id="desc">Open book with notes and soft academic lighting.</desc>
-  <rect width="1800" height="1100" fill="#24313A"/>
-  <rect x="0" y="720" width="1800" height="380" fill="#526A5D"/>
-  <path d="M250 360c260-95 520-68 780 80v465c-260-140-520-168-780-80z" fill="#FBF8F1"/>
-  <path d="M1030 440c205-130 382-160 590-75v470c-210-86-385-56-590 75z" fill="#F7F1E5"/>
-  <path d="M1030 440v470" stroke="#A9683F" stroke-width="12"/>
-  <path d="M330 470h520M330 555h475M330 640h540" stroke="#53687E" stroke-width="18" opacity=".55"/>
-  <path d="M1130 505h390M1130 590h340M1130 675h405" stroke="#53687E" stroke-width="18" opacity=".55"/>
-  <circle cx="1460" cy="230" r="115" fill="#C59B55" opacity=".88"/>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBF8F1"/>
+      <stop offset="1" stop-color="#E9DCC3"/>
+    </linearGradient>
+    <linearGradient id="room" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101A20"/>
+      <stop offset=".55" stop-color="#24313A"/>
+      <stop offset="1" stop-color="#526A5D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1100" fill="url(#room)"/>
+  <rect x="0" y="0" width="760" height="1100" fill="#0D171D" opacity=".72"/>
+  <rect x="0" y="760" width="1800" height="340" fill="#101A20" opacity=".28"/>
+  <path d="M770 370c190-74 380-55 570 56v410c-190-106-380-125-570-56z" fill="url(#paper)"/>
+  <path d="M1340 426c130-86 246-108 390-52v410c-144-56-260-34-390 52z" fill="#F7F1E5"/>
+  <path d="M1340 426v410" stroke="#A9683F" stroke-width="10"/>
+  <path d="M840 485h365M840 560h335M840 635h390" stroke="#53687E" stroke-width="16" opacity=".54"/>
+  <path d="M1415 502h240M1415 577h210M1415 652h250" stroke="#53687E" stroke-width="16" opacity=".52"/>
+  <circle cx="1515" cy="225" r="112" fill="#C59B55" opacity=".88"/>
+  <path d="M720 875c238-76 562-66 970 32" stroke="#FBF8F1" stroke-width="18" opacity=".22"/>
 </svg>

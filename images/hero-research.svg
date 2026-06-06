@@ -1,20 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1100" viewBox="0 0 1800 1100" role="img" aria-labelledby="title desc">
   <title id="title">Academic library hero image</title>
   <desc id="desc">Warm academic library with journal shelves and reading tables.</desc>
-  <rect width="1800" height="1100" fill="#53687E"/>
-  <rect y="620" width="1800" height="480" fill="#F7F1E5"/>
-  <rect x="120" y="120" width="1280" height="470" fill="#24313A" opacity=".75"/>
-  <g opacity=".95">
-    <rect x="170" y="165" width="170" height="380" fill="#A9683F"/>
-    <rect x="370" y="165" width="150" height="380" fill="#C59B55"/>
-    <rect x="550" y="165" width="175" height="380" fill="#526A5D"/>
-    <rect x="760" y="165" width="150" height="380" fill="#F7F1E5"/>
-    <rect x="940" y="165" width="170" height="380" fill="#A9683F"/>
-    <rect x="1140" y="165" width="160" height="380" fill="#C59B55"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18242C"/>
+      <stop offset=".52" stop-color="#24313A"/>
+      <stop offset="1" stop-color="#526A5D"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C59B55"/>
+      <stop offset="1" stop-color="#A9683F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1800" height="1100" fill="url(#bg)"/>
+  <rect x="0" y="0" width="760" height="1100" fill="#101A20" opacity=".68"/>
+  <rect x="790" y="150" width="770" height="620" rx="18" fill="#111B22" opacity=".76"/>
+  <g opacity=".98">
+    <rect x="845" y="205" width="90" height="480" rx="5" fill="#A9683F"/>
+    <rect x="960" y="205" width="75" height="480" rx="5" fill="#C59B55"/>
+    <rect x="1060" y="205" width="92" height="480" rx="5" fill="#526A5D"/>
+    <rect x="1178" y="205" width="80" height="480" rx="5" fill="#F7F1E5"/>
+    <rect x="1284" y="205" width="92" height="480" rx="5" fill="#A9683F"/>
+    <rect x="1402" y="205" width="80" height="480" rx="5" fill="#C59B55"/>
   </g>
-  <rect x="210" y="705" width="810" height="84" rx="8" fill="#24313A"/>
-  <rect x="275" y="785" width="42" height="190" fill="#24313A"/>
-  <rect x="885" y="785" width="42" height="190" fill="#24313A"/>
-  <circle cx="1425" cy="298" r="145" fill="#FBF8F1" opacity=".88"/>
-  <path d="M1295 760c155-78 312-78 470 0v140c-158-76-315-76-470 0z" fill="#526A5D"/>
+  <rect x="860" y="785" width="620" height="62" rx="8" fill="#18242C"/>
+  <rect x="925" y="845" width="34" height="155" fill="#18242C"/>
+  <rect x="1390" y="845" width="34" height="155" fill="#18242C"/>
+  <circle cx="1545" cy="250" r="110" fill="#FBF8F1" opacity=".82"/>
+  <path d="M1180 910c130-68 264-68 404 0v100c-140-65-274-65-404 0z" fill="url(#warm)" opacity=".92"/>
+  <path d="M0 920h1800v180H0z" fill="#101A20" opacity=".28"/>
 </svg>
