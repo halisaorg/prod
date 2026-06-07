@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/1osb_ha01p98y.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/_next/static/chunks/1osb_ha01p98y.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[22016,["/_next/static/chunks/1osb_ha01p98y.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0jbyd6i7518-9.js"],""]
+5:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","section",null,{"className":"bg-linen py-20","children":["$","div",null,{"className":"container-padded max-w-2xl text-center","children":[["$","p",null,{"className":"text-sm font-bold uppercase tracking-[0.18em] text-copper","children":"Not Found"}],["$","h1",null,{"className":"mt-4 font-serif text-5xl font-bold text-ink","children":"Book Not Found"}],["$","p",null,{"className":"mt-4 text-base leading-7 text-ink/70","children":"The book you are looking for is not available in the HALISA catalogue."}],["$","$L4",null,{"href":"/books","className":"focus-ring mt-8 inline-flex rounded bg-ink px-5 py-3 text-sm font-bold text-white transition hover:bg-moss","children":"Back to Books"}]]}]}],[]]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W5","buildId":"vhuJVwouvQ924fPGKF7bN"}
